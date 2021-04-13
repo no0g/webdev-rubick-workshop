@@ -18,7 +18,7 @@ Server itu **komputer** yang "**menyajikan**" webnya
 domain itu nama untuk poin ke address tertentu, address apa? IP address
 
 spt:
-	no0g.io								17.24.34.66
+	no0g.io				   17.24.34.66   
 	mamakmucok.art			   17.64.26.44
 
 # Request dan response

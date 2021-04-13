@@ -1,4 +1,4 @@
-Sesuai dengan [[03 - Web Development#Web App Dev Framework]]
+Sesuai dengan [ini](../00%20-%20Intro/03%20-%20Web%20Development#web-app-dev-framework).
 # Model
 - Database apu dengan table student dan column data student;
 
@@ -16,16 +16,23 @@ URL = [http://localhost/app/student/edit](http://localhost/app/student/edit)
 # Controller
 - input
 ```sql
-insert into student (column, column, column, column) values (?,?,?,?)
+INSERT INTO student (column, column, ...)
+VALUES (?, ?, ...);
 ```
 - edit
 ```sql
-UPDATE student SET COLUMN = ?, COLUMN = ?, COLUMN =? WHERE id = ?
+UPDATE student
+SET
+  column = ?,
+  column = ?,
+  ...
+WHERE id = ?;
 
 ```
 - Remove
 ```sql
-DELETE student WHERE id = ?
+DELETE FROM student
+WHERE id = ?;
 ```
 
 # Subdirectory

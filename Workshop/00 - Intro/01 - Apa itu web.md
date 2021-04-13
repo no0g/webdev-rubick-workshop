@@ -1,7 +1,7 @@
 # Websites
 
 ## Definisi
-a set of related web pages located under a single domain name, typically produced by a single person or organization.
+A set of related web pages located under a single domain name, typically produced by a single person or organization.
 
 **Biasanya static, cuma html**
 
@@ -14,11 +14,13 @@ A web application is a computer program that utilizes web browsers and web techn
 
 # Anatomy web
 ## Domain/Hostname
-nama yang dipake buat ngerefer ke suatu server yang "menyajikan website".   
-Lebih detail di: [02 - Server dan Client](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/02%20-%20Server%20dan%20Client.md)
+
+Nama yang dipake buat ngerefer ke suatu server yang "menyajikan website".   
+Lebih detail di: [Apa itu domain](02%20-%20Server%20dan%20Client.md#apa-itu-domain).
+
 
 ## Subdirectory
-ya intinya web itu kaya files jadi componennya juga folder, di dalam folder ada files
+Ya intinya web itu kaya files jadi componennya juga folder, di dalam folder ada files.
 
 ```
 Contoh struktur folder employee management system

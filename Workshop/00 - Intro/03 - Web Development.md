@@ -22,4 +22,4 @@ Dev stack itu kaya komponen yang di pake buat nge build satu web app, ada banyak
 
 ![Model-View-Controller(MVC) architecture for Node applications -  GeeksforGeeks](https://media.geeksforgeeks.org/wp-content/uploads/mvc-block-diagram.png)
 
-[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/03%20-%20Web%20Development.md) ---- [next](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/10%20-%20Requirements/11%20-%20Knowledge.md)
+[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/02%20-%20Server%20dan%20Client.md) ---- [next](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/10%20-%20Requirements/11%20-%20Knowledge.md)

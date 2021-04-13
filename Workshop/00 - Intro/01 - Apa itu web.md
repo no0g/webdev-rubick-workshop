@@ -14,8 +14,10 @@ A web application is a computer program that utilizes web browsers and web techn
 
 # Anatomy web
 ## Domain/Hostname
+
 Nama yang dipake buat ngerefer ke suatu server yang "menyajikan website".   
 Lebih detail di: [Apa itu domain](02%20-%20Server%20dan%20Client.md#apa-itu-domain).
+
 
 ## Subdirectory
 Ya intinya web itu kaya files jadi componennya juga folder, di dalam folder ada files.
@@ -40,3 +42,4 @@ Contoh struktur folder employee management system
 
 ```
 
+[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/01%20-%20Apa%20itu%20web.md) ---- [next](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/02%20-%20Server%20dan%20Client.md)

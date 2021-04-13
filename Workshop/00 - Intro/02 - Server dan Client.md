@@ -1,0 +1,46 @@
+# Hubungan client server
+![HTTP Made Easy: Understanding the Web Client-Server Communication | Hacker  Noon](https://hackernoon.com/images/jot3yv6.jpg)
+
+## INTINYAA
+- Client
+client itu user yang lg pake **browser** mencoba akses web kita
+- Server
+server itu **komputer** yang "**menyajikan**" webnya
+
+### Server itu **pake aplikasi**
+- Apache2
+- Nginx
+- Node(?)
+- Microsoft IIS 
+**Berdasarkan server applicationnya, programming yg dipake jga beda**
+
+# Apa itu domain
+domain itu nama untuk poin ke address tertentu, address apa? IP address
+
+spt:
+	no0g.io								17.24.34.66
+	mamakmucok.art			   17.64.26.44
+
+# Request dan response
+## Request 
+ - GET
+ Biasanya buat get sesuatu dna bisa pake parameter
+ spt:
+	![[Pasted image 20210413134025.png]]
+ - POST
+Biasanya buat input dari form, membawa request body yg banyak 
+spt:
+	![[Pasted image 20210413133922.png]]
+
+
+## Response
+### Response Code
+- 200 (OK)
+- 404 (Not Found)
+- 500 (Server Error)
+- 301,302 (Redirection)
+- 401 (Unauthorized)
+
+selengkapnya di [pizza hut](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+### Response body
+ya webnya itu lah

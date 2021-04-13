@@ -3,9 +3,9 @@
 
 ## INTINYAA
 - Client
-client itu user yang lg pake **browser** mencoba akses web kita
+Client itu user yang lg pake **browser** mencoba akses web kita
 - Server
-server itu **komputer** yang "**menyajikan**" webnya
+Server itu **komputer** yang "**menyajikan**" webnya
 
 ### Server itu **pake aplikasi**
 - Apache2
@@ -24,13 +24,13 @@ spt:
 # Request dan response
 ## Request 
  - GET
- Biasanya buat get sesuatu dna bisa pake parameter
- spt:
-	![[Pasted image 20210413134025.png]]
- - POST
-Biasanya buat input dari form, membawa request body yg banyak 
-spt:
-	![[Pasted image 20210413133922.png]]
+ Biasanya buat get sesuatu dna bisa pake parameter  
+ spt:  
+![get request](../../Pasted%20image%2020210413134025.png)  
+ - POST  
+Biasanya buat input dari form, membawa request body yg banyak  
+spt:  
+![post request](../../Pasted%20image%2020210413133922.png)
 
 
 ## Response

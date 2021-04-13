@@ -44,3 +44,5 @@ spt:
 selengkapnya di [pizza hut](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 ### Response body
 ya webnya itu lah
+
+[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/01%20-%20Apa%20itu%20web.md) ---- [next](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/00%20-%20Intro/03%20-%20Web%20Development.md)

@@ -47,3 +47,5 @@ DELETE student WHERE id = ?
 5 directories, 7 files
 
 ```
+
+[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/20%20-%20Hands%20on/21%20-%20Apa%20yg%20kta%20akan%20bikin%3F.md) ---- [next](https://www.youtube.com/watch?v=dQw4w9WgXcQ)

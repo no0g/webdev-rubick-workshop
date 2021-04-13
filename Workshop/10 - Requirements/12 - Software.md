@@ -10,3 +10,6 @@
 or
 - Apache2 + mysql/mariadb + phpmyadmin (LAMP STACK) sesuai sama [[03 - Web Development#LAMP Ini yg akan kta pake ges]]
 #### [install dong](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)
+
+
+[prev](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/10%20-%20Requirements/11%20-%20Knowledge.md) ---- [next](https://github.com/no0g/webdev-rubick-workshop/blob/master/Workshop/20%20-%20Hands%20on/21%20-%20Apa%20yg%20kta%20akan%20bikin%3F.md)

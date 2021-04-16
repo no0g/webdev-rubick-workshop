@@ -2,9 +2,9 @@
 ![HTTP Made Easy: Understanding the Web Client-Server Communication | Hacker  Noon](https://hackernoon.com/images/jot3yv6.jpg)
 
 ## INTINYAA
-- Client
+- Client  
 Client itu user yang lg pake **browser** mencoba akses web kita
-- Server
+- Server  
 Server itu **komputer** yang "**menyajikan**" webnya
 
 ### Server itu **pake aplikasi**
@@ -24,7 +24,7 @@ spt:
 # Request dan response
 ## Request 
  - GET
- Biasanya buat get sesuatu dna bisa pake parameter  
+ Biasanya buat mendapatkan sesuatu dan bisa pake parameter  
  spt:  
 ![get request](../../Pasted%20image%2020210413134025.png)  
  - POST  
